@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-📍 London, UK | 🔗 Builder | 🛡️ Security-first
+📍 Glasgow, UK | 🔗 Builder | 🛡️ Security-first
 
 Co-Founder & CTO of **[AGIRAILS](https://github.com/AGIRAILS)** — blockchain payment infrastructure for AI agent-to-agent transactions. Building escrow primitives and settlement rails so autonomous agents can transact with trust.
 
